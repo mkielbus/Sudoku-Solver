@@ -9,7 +9,7 @@ Nel Kułakowska
 
 Interpreter Pythona w wersji 3.10.12 bądź nowszej
 
-Potrzebne moduły do zainstalowanie za pomocą narzędzia pip znajdują się w pliku requirements.txt
+Potrzebne moduły do zainstalowania za pomocą narzędzia pip znajdują się w pliku requirements.txt
 
 ## Struktura katalogów
 
